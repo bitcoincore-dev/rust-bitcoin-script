@@ -1,6 +1,6 @@
 # bitcoin-script
 
-[![Rust](https://github.com/bitcoincore-dev/rust-bitcoin-script/workflows/Rust/badge.svg)](https://github.com/bitcoincore-dev/rust-bitcoin-script/actions?query=workflow%3ARust)
+[![rust.yml](https://github.com/bitcoincore-dev/rust-bitcoin-script/actions/workflows/rust.yml/badge.svg)](https://github.com/bitcoincore-dev/rust-bitcoin-script/actions/workflows/rust.yml)
 [![crates.io](https://img.shields.io/crates/v/bitcoin-script.svg)](https://crates.io/crates/bitcoin-script)
 [![docs.rs](https://docs.rs/bitcoin-script/badge.svg)](https://docs.rs/bitcoin-script)
 
